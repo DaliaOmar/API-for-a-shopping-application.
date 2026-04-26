@@ -1,0 +1,16 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "pajama_store",
+      "user": "postgres",
+      "password": "dalia123"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "pajama_store_test",
+      "user": "postgres",
+      "password": "dalia123"
+    }
+  }
